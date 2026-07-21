@@ -1,0 +1,98 @@
+[
+  {
+    "id": "q000",
+    "category": "ticker_specific",
+    "ticker_filter": "RELIANCE",
+    "question": "What's the latest news or filing update for RELIANCE?",
+    "retrieved_context": "[RELIANCE | filing | 04-Sep-2025 20:34:58] Updates\nUpdates\nPlease find attached a media release by the Company and Reliance Retail Limited, a subsidiary of the Company\n\n---\n\n[RELIANCE | filing | 17-Oct-2025 19:06:18] Press Release\nPress Release\nReliance Industries Limited has informed the Exchange regarding a press release dated October 17, 2025, titled \"In continuation of our letter of today's date on the Consolidated and Standalone Unaudited Financial Results for the quarter and half year ended September 30, 2025, we attach a copy of Media Release being issued by the Company.\".\n\n---\n\n[RELIANCE | filing | 16-Jan-2026 19:20:45] Press Release\nPress Release\nReliance Industries Limited has informed the Exchange regarding a press release dated January 16, 2026, titled \"In continuation of our letter of today's date on the Consolidated and Standalone Unaudited Financial Results for the quarter and nine months ended December 31, 2025, we attach a copy of Media Release being issued by the Company.\".\n\n---\n\n[RELIANCE | filing | 18-Aug-2025 15:39:43] Updates\nUpdates\nMedia Release by Reliance Consumer Products Limited, a subsidiary of the Company.\n\n---\n\n[RELIANCE | filing | 10-Jun-2026 08:38:26] Updates\nUpdates\nPlease find attached a media release by the Company, titled  Reliance and Meta to Develop AI-Enabled Data Centre in Jamnagar, Gujarat.\n\n---\n\n[RELIANCE | filing | 29-Aug-2025 15:08:09] Updates\nUpdates\nPlease find attached a media release by the Company, titled  Reliance and GoogleCloud Expand Partnership to Accelerate India s Growth with AI.",
+    "reference_answer": "The retrieved filings are mostly press/media releases rather than detailed disclosures: a media release involving subsidiary Reliance Retail Limited (Sep 2025), a media release involving subsidiary Reliance Consumer Products Limited (Aug 2025), two press releases accompanying quarterly financial-results filings for the quarters ended Sep 30 2025 and Dec 31 2025, and two AI-partnership announcements -- a data centre partnership with Meta in Jamnagar, Gujarat (Jun 2026) and an expanded Google Cloud partnership (Aug 2025). No specific revenue, profit, or other financial figures are included in this context."
+  },
+  {
+    "id": "q001",
+    "category": "ticker_specific",
+    "ticker_filter": "INFY",
+    "question": "Have there been any recent board announcements for INFY?",
+    "retrieved_context": "[INFY | filing | 30-Apr-2026 20:08:42] Updates\nUpdates\nInfosys Limited has informed the Exchange regarding 'Outcome of Board meeting'.\n\n---\n\n[INFY | filing | 25-Jun-2026 10:10:07] Updates\nUpdates\nInfosys Limited has informed the Exchange regarding 'Intimation of approval of shareholders for reclassification of certain members of the promoter and promoter group'.\n\n---\n\n[INFY | filing | 17-Feb-2026 11:15:04] Updates\nUpdates\nInfosys Limited has informed the Exchange regarding 'Investor AI day   Agenda & Presentation'.\n\n---\n\n[INFY | filing | 27-Apr-2026 20:36:05] Updates\nUpdates\nInfosys Limited has informed the Exchange regarding 'Transcripts of the press conference and earnings call conducted after the Meeting ofBoard of directors on April 23, 2026'.\n\n---\n\n[INFY | filing | 14-Jan-2026 20:56:43] Updates\nUpdates\nInfosys Limited has informed the Exchange regarding 'Report of auditors on financial statements for the quarter and nine months ended December 31, 2025 with UDIN'.\n\n---\n\n[INFY | filing | 23-Jul-2025 21:01:01] Updates\nUpdates\nInfosys Limited has informed the Exchange regarding 'Report of auditors on financial statements for the quarter ended June 30, 2025 with UDIN'.",
+    "reference_answer": "Yes. A board meeting outcome was announced Apr 30 2026, and a board of directors meeting was held Apr 23 2026, with the press conference/earnings-call transcripts from that meeting filed Apr 27 2026. Separately, shareholders approved a reclassification of certain promoter/promoter-group members (Jun 25 2026), and Infosys held an 'Investor AI Day' with agenda and presentation (Feb 17 2026). Auditors' reports on financial statements were also filed for the quarters ended Jun 30 2025 and Dec 31 2025. This context doesn't include dividend amounts or any upcoming board meeting dates."
+  },
+  {
+    "id": "q002",
+    "category": "ticker_specific",
+    "ticker_filter": "TCS",
+    "question": "What's driving TCS stock recently?",
+    "retrieved_context": "[TCS | news | 2026-07-10T04:00:17+00:00] TCS shares rally 4% on steady Q1 FY27 show; management sees demand resuming in Q2 - Upstox\n\n---\n\n[TCS | news | 2026-03-27T07:00:00+00:00] TCS gains 2% in weak market; stock among ICICI Securities top IT picks - Business Standard\n\n---\n\n[TCS | news | 2026-02-12T08:00:00+00:00] TCS Share Price Slides, Hits 52-Week Low as IT Stocks Face Heavy Selloff - HDFC Sky\n\n---\n\n[TCS | news | 2025-11-07T08:00:00+00:00] Tata Consultancy Services Limited's (NSE:TCS) Stock Been Rising: Are Strong Financials Guiding The Market? - simplywall.st\n\n---\n\n[TCS | news | 2026-06-03T07:00:00+00:00] TCS shares slide to 6-year low after 9% crash; what lies ahead? - Moneycontrol.com\n\n---\n\n[TCS | news | 2026-06-03T07:00:00+00:00] Why did TCS shares crash over 8% today? Stock logs worst single-day fall since Covid-era rout - The Times of India",
+    "reference_answer": "The picture in this context is volatile rather than one clear driver: TCS shares rallied 4% on a steady Q1 FY27 show with management expecting demand to resume in Q2 (Jul 2026 headline), but that follows a 6-year-low, 8-9% single-day crash in early June 2026 -- its worst single-day fall since the Covid-era. Before that, it hit a 52-week low amid a broader IT sector selloff (Feb 2026), while earlier in the year it had gained on being named an ICICI Securities top IT pick (Mar 2026) and risen on strong financials (Nov 2025 headline). This context doesn't include specific revenue/profit figures or named deal wins."
+  },
+  {
+    "id": "q003",
+    "category": "ticker_specific",
+    "ticker_filter": "HDFCBANK",
+    "question": "Summarize the most recent filing from HDFCBANK.",
+    "retrieved_context": "[HDFCBANK | filing | 17-Jan-2026 15:13:56] Press Release\nPress Release\nHDFC Bank Limited has informed the Exchange regarding a press release dated January 17, 2026, titled FINANCIAL RESULTS (INDIAN GAAP) FOR THE QUARTER AND NINE MONTHS ENDED DECEMBER 31, 2025.\n\n---\n\n[HDFCBANK | filing | 18-Apr-2026 14:45:47] Outcome of Board Meeting\nOutcome of Board Meeting\nHDFC Bank Limited has submitted to the Exchange, the financial results for the period ended March 31, 2026.\n\n---\n\n[HDFCBANK | filing | 18-Oct-2025 14:08:44] Outcome of Board Meeting\nOutcome of Board Meeting\nHDFC Bank Limited has submitted to the Exchange, the financial results for the period ended September 30, 2025.\n\n---\n\n[HDFCBANK | filing | 17-Jan-2026 14:41:09] Outcome of Board Meeting\nOutcome of Board Meeting\nHDFC Bank Limited has submitted to the Exchange, the financial results for the period ended December 31, 2025.\n\n---\n\n[HDFCBANK | filing | 19-Jul-2025 14:51:02] Outcome of Board Meeting\nOutcome of Board Meeting\nHDFC Bank Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2025.\n\n---\n\n[HDFCBANK | filing | 03-Feb-2026 17:11:42] General Updates\nGeneral Updates\nHDFC Bank Limited has informed the Exchange about Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Outcome of the Board Meeting held on February 3, 2026",
+    "reference_answer": "By date, the most recent filing in this context is the Feb 3 2026 general update -- a Regulation 30 (SEBI LODR) disclosure on the outcome of a board meeting held that day. The context doesn't specify what was decided at that meeting. The other filings are a sequence of routine board-meeting outcomes submitting quarterly financial results, for periods ended Jun 30 2025, Sep 30 2025, Dec 31 2025, and Mar 31 2026, plus a Jan 17 2026 press release accompanying the Dec 31 2025 results. No specific profit, NII, or margin figures appear in this context."
+  },
+  {
+    "id": "q004",
+    "category": "cross_ticker",
+    "ticker_filter": null,
+    "question": "Which companies have had board meetings scheduled recently?",
+    "retrieved_context": "[RELIANCE | filing | 10-Jul-2026 17:46:25] Analysts/Institutional Investor Meet/Con. Call Updates\nAnalysts/Institutional Investor Meet/Con. Call Updates\nA meeting of the Board of Directors of the Company is scheduled to be held on Friday, July 17, 2026, inter alia, to consider and approve the standalone and consolidated unaudited financial results of the Company for the quarter ended June 30, 2026. The Company will hold an analyst meet, post the Board Meeting to discuss the financial results for the quarter ended June 30, 2026.\n\n---\n\n[RELIANCE | filing | 27-May-2026 17:56:54] General Updates\nGeneral Updates\nThe Forty-ninth Annual General Meeting (Post - IPO) of the members of the Company will be held on Friday, June 19, 2026 at 2:00 P.M. (IST) through Video Conferencing / Other Audio Visual Means.\n\n---\n\n[RELIANCE | filing | 09-Oct-2025 19:13:17] Analysts/Institutional Investor Meet/Con. Call Updates\nAnalysts/Institutional Investor Meet/Con. Call Updates\nA meeting of the Board of Directors of the Company is scheduled to be held on Friday, October 17, 2025, inter alia, to consider and approve the standalone and consolidated unaudited financial results of the Company for the quarter and half year ended September 30, 2025.\n\n---\n\n[RELIANCE | filing | 08-Jan-2026 20:17:21] Analysts/Institutional Investor Meet/Con. Call Updates\nAnalysts/Institutional Investor Meet/Con. Call Updates\nA meeting of the Board of Directors of the Company is scheduled to be held on Friday, January 16, 2026, inter alia, to consider and approve the standalone and consolidated unaudited financial results of the Company for the quarter and nine months ended December 31, 2025.\n\n---\n\n[RELIANCE | filing | 17-Apr-2026 18:20:49] Analysts/Institutional Investor Meet/Con. Call Updates\nAnalysts/Institutional Investor Meet/Con. Call Updates\nA meeting of the Board of Directors of the Company is scheduled to be held on Friday, April 24, 2026, inter alia, to consider and approve the standalone and consolidated audited financial results of the Company for the quarter and year ended March 31, 2026.\n\n---\n\n[RELIANCE | filing | 30-Aug-2025 12:35:30] Shareholders meeting\nShareholders meeting\nGist of the proceedings of the Forty-eighth Annual General Meeting (Post-IPO) of the Company held on Friday, August 29, 2025, is attached.",
+    "reference_answer": "Based on this retrieval, only RELIANCE's board-meeting schedule appears: a meeting on July 17, 2026 to approve Q1 FY27 results, plus earlier meetings on Oct 17 2025 (H1 FY26 results), Jan 16 2026 (Q3 FY26 results), and Apr 24 2026 (full-year FY26 results). It also references Reliance's AGMs (48th held Aug 29 2025, 49th held Jun 19 2026), which are shareholder meetings rather than board meetings. This context contains no board-meeting information for HDFC Bank, TCS, or Infosys, even though all four tickers are indexed -- this particular retrieval just surfaced only Reliance filings."
+  },
+  {
+    "id": "q005",
+    "category": "cross_ticker",
+    "ticker_filter": null,
+    "question": "What recent news is there across the indexed stocks?",
+    "retrieved_context": "[HDFCBANK | news | 2026-04-04T07:00:00+00:00] Stock Market News - Share Market News, Sensex Today, BSE/NSE India, Nifty 50 Updates | CNBCTV18 - LinkedIn\n\n---\n\n[HDFCBANK | news | 2026-06-30T07:00:00+00:00] Stocks to Watch today: HDFC Bank, Biocon, SJVN, Container Corp, Yes Bank - Business Standard\n\n---\n\n[RELIANCE | filing | 20-Jul-2025 13:30:24] Analysts/Institutional Investor Meet/Con. Call Updates\nTranscript of the discussion on the Unaudited Financial Results (Consolidated and Standalone) of the Company for the quarter ended June 30, 2025, at the analyst meet held on July 18, 2025, is attached.\n\n---\n\n[RELIANCE | filing | 19-Oct-2025 22:55:29] Analysts/Institutional Investor Meet/Con. Call Updates\nTranscript of the discussion on the Unaudited Financial Results for the quarter and half year ended September 30, 2025, at the analyst meet held on October 17, 2025, is attached.\n\n---\n\n[RELIANCE | filing | 18-Jan-2026 23:50:41] Analysts/Institutional Investor Meet/Con. Call Updates\nTranscript of the discussion on the Unaudited Financial Results for the quarter and nine months ended December 31, 2025, at the analyst meet held on January 16, 2026, is attached.\n\n---\n\n[HDFCBANK | news | 2026-07-15T15:50:00+00:00] Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times",
+    "reference_answer": "This retrieval surfaced only HDFC Bank and Reliance content, nothing distinct for TCS or Infosys. HDFC Bank appears in general market roundup headlines -- a 'Stocks to Watch' list alongside Biocon, SJVN, Container Corp, and Yes Bank (Jun 30 2026), a broader Sensex/Nifty market news roundup (Apr 4 2026), and an 'Ahead of Market' preview piece (Jul 15 2026) -- none of which give HDFC-specific news beyond being mentioned. Reliance's items are filing transcripts of analyst-meet discussions of quarterly results for periods ended Jun 30 2025, Sep 30 2025, and Dec 31 2025. No specific price moves or financial figures are given in this context."
+  },
+  {
+    "id": "q006",
+    "category": "cross_ticker",
+    "ticker_filter": null,
+    "question": "Are there any companies with upcoming AGMs?",
+    "retrieved_context": "[RELIANCE | filing | 27-May-2026 17:56:54] General Updates\nThe Forty-ninth Annual General Meeting (Post - IPO) of the members of the Company will be held on Friday, June 19, 2026 at 2:00 P.M. (IST).\n\n---\n\n[RELIANCE | filing | 31-Jul-2025 20:34:11] General Updates\nForty-eighth Annual General Meeting (Post-IPO) of the members of the Company will be held on Friday, August 29, 2025 at 2:00 P.M. (IST).\n\n---\n\n[RELIANCE | filing | 19-Feb-2026 19:30:15] Analysts/Institutional Investor Meet/Con. Call Updates\nCompany executives will be participating in the IIFL Global Investors Conference, scheduled February 24, 2026 at Mumbai.\n\n---\n\n[RELIANCE | filing | 18-Nov-2025 19:10:25] Analysts/Institutional Investor Meet/Con. Call Updates\nCompany executives will be participating in the JM Financial India Conference, scheduled November 21, 2025 at Mumbai.\n\n---\n\n[TCS | filing | 05-May-2026 17:32:18] Updates\nTata Consultancy Services Limited has informed the Exchange regarding 'Intimation of date of Annual General Meeting of the Company'.\n\n---\n\n[RELIANCE | filing | 05-Feb-2026 18:52:02] Analysts/Institutional Investor Meet/Con. Call Updates\nCompany executives will be participating in the Nuvama India Conference 2026, scheduled February 10, 2026 at Mumbai.",
+    "reference_answer": "Reliance's 49th AGM was held Jun 19 2026 (its 48th was Aug 29 2025, already past by the time of this query). TCS filed an 'Intimation of date of Annual General Meeting' on May 5 2026, indicating an AGM date was being communicated, though the specific date itself isn't included in this context. The rest of the Reliance entries are investor-conference appearances (IIFL, JM Financial, Nuvama), not AGMs. This context contains no AGM-related filings for HDFC Bank or Infosys."
+  },
+  {
+    "id": "q007",
+    "category": "cross_ticker",
+    "ticker_filter": null,
+    "question": "Which stocks have recent price-moving news?",
+    "retrieved_context": "[HDFCBANK | news | 2026-04-04T07:00:00+00:00] Stock Market News - Share Market News, Sensex Today, BSE/NSE India, Nifty 50 Updates | CNBCTV18 - LinkedIn\n\n---\n\n[HDFCBANK | news | 2026-06-30T07:00:00+00:00] Stocks to Watch today: HDFC Bank, Biocon, SJVN, Container Corp, Yes Bank - Business Standard\n\n---\n\n[HDFCBANK | news | 2026-07-15T15:50:00+00:00] Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times\n\n---\n\n[INFY | news | 2026-06-24T07:00:00+00:00] Stocks to Watch Today: Infosys, IRFC, Honasa Consumer, Rashi Peripherals, City Union Bank, Delhivery, Clay... - Moneycontrol.com\n\n---\n\n[HDFCBANK | news | 2026-07-15T07:41:00+00:00] HDFC Bank, SBI, other stocks jump up to 2%; Nifty Bank gains 560 points. What lies ahead? - The Economic Times\n\n---\n\n[INFY | filing | 20-Dec-2025 09:10:13] Updates\nInfosys Limited has informed the Exchange regarding 'Clarification on ADR Price Volatility - December 19, 2025'.",
+    "reference_answer": "Only HDFC Bank and Infosys have concrete price-moving items in this context; TCS and Reliance don't appear here. HDFC Bank jumped up to 2% alongside SBI as Nifty Bank gained 560 points (Jul 15 2026), and shows up repeatedly in general 'stocks to watch' roundups (Jun 30, Jul 15 2026). Infosys appears in a 'stocks to watch' list (Jun 24 2026) and filed a clarification on ADR price volatility (Dec 20 2025 filing, referencing Dec 19 2025), suggesting some price movement in its US-listed shares, though the context doesn't state the size of that move."
+  },
+  {
+    "id": "q008",
+    "category": "no_context",
+    "ticker_filter": "ZZTOPCORP",
+    "question": "What's the latest news for ZZTOPCORP?",
+    "retrieved_context": "",
+    "reference_answer": "Should state that no relevant information was found."
+  },
+  {
+    "id": "q009",
+    "category": "no_context",
+    "ticker_filter": "NOTAREALTICKER",
+    "question": "What's the latest news for NOTAREALTICKER?",
+    "retrieved_context": "",
+    "reference_answer": "Should state that no relevant information was found."
+  },
+  {
+    "id": "q010",
+    "category": "no_context",
+    "ticker_filter": "FAKEINDLTD",
+    "question": "What's the latest news for FAKEINDLTD?",
+    "retrieved_context": "",
+    "reference_answer": "Should state that no relevant information was found."
+  },
+  {
+    "id": "q011",
+    "category": "no_context",
+    "ticker_filter": "GHOSTSTOCKS",
+    "question": "What's the latest news for GHOSTSTOCKS?",
+    "retrieved_context": "",
+    "reference_answer": "Should state that no relevant information was found."
+  }
+]

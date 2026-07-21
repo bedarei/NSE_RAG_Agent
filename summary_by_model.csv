@@ -1,0 +1,4 @@
+model,n_questions,avg_faithfulness,avg_correctness,avg_instruction_adherence,avg_wall_clock_seconds,avg_tokens_per_second,avg_loaded_model_mem_mb
+llama3.1:8b,12,3.25,2.5,4.5,39.65,7.91,
+llama3.2:3b,12,3.42,2.92,5.0,17.96,17.32,
+phi3,12,2.92,3.17,4.75,30.65,15.32,
