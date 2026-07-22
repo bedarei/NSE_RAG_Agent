@@ -14,15 +14,15 @@ The agent indexes company filings and news articles into a Chroma vector store, 
 - requirements.txt  
 - NSE_RAG_Model_Comparison_Report.pdf    (write-up comparing 3 LLMs for this task)  
 - harness/                     (evaluation harness used for the model comparison)  
-- README.md                 (setup + run order for the harness)  
-- rag_utils.py              (shared retrieval/config, mirrors app.py)  
-- build_eval_set.py         (generates eval questions from the real index)  
-- run_harness.py            (runs eval set through each model)  
-- score_harness.py          (LLM-judge scoring (faithfulness, correctness, instruction adherence)  
-- eval_set.json  
-- results_raw.json  
-- results_scored.csv  
-- summary_by_model.csv  
+  - README.md                 (setup + run order for the harness)  
+  - rag_utils.py              (shared retrieval/config, mirrors app.py)  
+  - build_eval_set.py         (generates eval questions from the real index)  
+  - run_harness.py            (runs eval set through each model)  
+  - score_harness.py          (LLM-judge scoring (faithfulness, correctness, instruction adherence)  
+  - eval_set.json  
+  - results_raw.json  
+  - results_scored.csv  
+  - summary_by_model.csv  
 
 ## Setup
 
