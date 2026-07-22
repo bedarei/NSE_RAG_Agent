@@ -1,4 +1,4 @@
-# Model comparison harness — NSE RAG agent
+# Model comparison harness - NSE RAG agent
 
 Compares Llama 3.1 8B vs Llama 3.2 3B vs Phi-3 as the generation model,
 on faithfulness, correctness, instruction adherence, latency, and
@@ -46,8 +46,8 @@ tradeoffs write-up (e.g. "Phi-3 hallucinated on q004 but was 3x faster").
 - Resource footprint comes from parsing `ollama ps` right after each call.
   If `loaded_model_mem_mb` comes back empty a lot, run `ollama ps` by hand
   while a model is loaded and check the column format matches what
-  `get_loaded_model_size_mb()` expects — Ollama has changed this output
+  `get_loaded_model_size_mb()` expects - Ollama has changed this output
   format between versions before.
-- The judge is still an LLM, not ground truth — spot-check a handful of its
+- The judge is still an LLM, not ground truth - spot-check a handful of its
   scores against your own read of the transcripts before trusting the
   aggregate numbers in the report.
